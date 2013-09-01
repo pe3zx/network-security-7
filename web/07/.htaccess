@@ -1,0 +1,4 @@
+<Files users.sql>
+	Order deny,allow
+	Deny from all
+</Files>

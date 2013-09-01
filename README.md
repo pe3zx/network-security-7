@@ -21,8 +21,8 @@ Developers
 
  - Pansaen Boonyakarn  ([@pe3zx](https://twitter.com/pe3zx)) 
  - Sorrawut Kittikeereechaikun ([@mix5003](https://twitter.com/mix5003))
- - Sarawoot Bussadee
- - Tetat Jearuksuwan
+ - Sarawut Bussadee ([$wHsK](https://www.facebook.com/tob.hsk))
+ - Tetat Jearuksuwan ([Jellopy](https://www.facebook.com/Jellopy1ea))
 
 Thanks
 

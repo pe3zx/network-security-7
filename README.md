@@ -10,13 +10,19 @@ Network Security เป็นการแข่งขันซึ่งอยู
   - ไม่อนุญาตให้ผู้เข้าแข่งเข้าถึงอินเทอร์เน็ตระหว่างการแข่งขัน
   - การแข่งขันจะหาผู้ชนะจากผู้ที่ได้คะแนนสูงสุด 3 อันดับแรก
 
+สำหรับการแข่งขันมีรายละเอียดดังต่อไปนี้
+
+  - ให้ผู้เข้าแข่งขันหาคีย์จากโจทย์ในเวลาที่กำหนด (3 ชั่วโมง)
+  - หลังจากผู้เข้าแข่งขันหาคีย์จากโจทย์ได้แล้ว ให้นำคีย์ที่มาทำการตรวจสอบโดยระบบว่าถูกต้องหรือไม่ หากคีย์ที่ได้นั้นถูกต้อง ระบบจะทำการเพิ่มคะแนนให้กับผู้เข้าแข่งขันในทีมนั้นๆ
+  - ผู้เข้าแข่งสามารถเลือกทำโจทย์ได้ทุกข้อตามอัธยาศัย
+
 Developers
 =========
 
  - Pansaen Boonyakarn  ([@pe3zx](https://twitter.com/pe3zx)) 
  - Sorrawut Kittikeereechaikun ([@mix5003](https://twitter.com/mix5003))
- - Sarawoot Buddee
- - Tetat Jearuksuwan
+ - Sarawut Bussadee ([$wHsK](https://www.facebook.com/tob.hsk))
+ - Tetat Jearuksuwan ([Jellopy](https://www.facebook.com/Jellopy1ea))
 
 Thanks
 

@@ -8,7 +8,7 @@
 			<blockquote>
 				<h4>สนับสนุนโดย</h4>
 				<ul>
-					<li><a href="https://www.facebook.com/pansaen.boonyakarn" target="_blank">pe3z</a> - โจทย์ยากโทษคนนี้ :3</li>
+					<li><a href="https://twitter.com/pe3zx" target="_blank">pe3z</a> - โจทย์ยากโทษคนนี้ :3</li>
 					<li><a href="https://www.facebook.com/tob.hsk" target="_blank">$wHsK</a> - นายช่างประจำเครื่อง Server @ITKMITL</li>
 					<li><a href="https://www.facebook.com/Jellopy1ea" target="_blank">Jellopy</a> - นักเขียนอภิมหากาพย์นิทานประกอบโจทย์</li>
 				</ul>

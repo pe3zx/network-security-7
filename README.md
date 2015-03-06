@@ -27,7 +27,7 @@ Developers
 Thanks
 
  - Chotipat Pornavalai ─ Advisor ([@chotipat](https://twitter.com/chotipat))
- - [@Xelenonz](https://twitter.com/xelenonz) (for anonymous helps!)
+ - [@Xelenonz](https://twitter.com/xelenonz)
 
 License
 =========

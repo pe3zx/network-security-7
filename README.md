@@ -26,7 +26,7 @@ Developers
 
 Thanks
 
- - Chotipat Pornavalai ─ Adviser ([@chotipat](https://twitter.com/chotipat))
+ - Chotipat Pornavalai ─ Advisor ([@chotipat](https://twitter.com/chotipat))
  - [@Xelenonz](https://twitter.com/xelenonz) (for anonymous helps!)
  
 Online Challenge
